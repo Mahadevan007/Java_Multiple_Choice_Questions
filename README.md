@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mahadevan
+
 
 <!---
 Mahadevan007/Mahadevan007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
